@@ -1,12 +1,3 @@
-<div style="
-  max-width: 450px;
-  margin: 0 auto;
-  background-color: white;
-  border: 3px solid #ddd;
-  border-radius: 15px;
-  padding: 20px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-">
 <div align="center"><img src="https://i.postimg.cc/fRTyMm3c/top.png" width="40%"></div>
 <div align="center"><img src="https://i.postimg.cc/zDxX0323/coffin.gif" style="display: inline; vertical-align: middle;" width="16px">⠀⤹⠀zeno⠀(¬_¬")⠀he / him ⤸</div>
 
@@ -20,6 +11,3 @@
 
 <div align="center"><img src="https://i.postimg.cc/9MpF3fW8/tv.gif" width="16px"></div>
 <div align="center"><img src="https://i.postimg.cc/4xLdyytr/btm.png" width="40%"></div>
-</div>
-
-
