@@ -1,12 +1,13 @@
-![](https://i.postimg.cc/fRTyMm3c/top.png)
-<center><img src="https://i.postimg.cc/zDxX0323/coffin.gif" style="display: inline; vertical-align: middle;">⠀⤹⠀zeno⠀(¬_¬")⠀he / him ⤸</center>
-<center> ⸸ an aritst w/ <img src="https://i.postimg.cc/NFCsMP2R/ds.gif" style="display: inline; vertical-align: middle;">⠀front end skills ⸸ </center>
+<div align="center"><img src="https://i.postimg.cc/fRTyMm3c/top.png" width="40%"></div>
+<div align="center"><img src="https://i.postimg.cc/zDxX0323/coffin.gif" style="display: inline; vertical-align: middle;" width="16px">⠀⤹⠀zeno⠀(¬_¬")⠀he / him ⤸</div>
 
-![](https://i.postimg.cc/RVTqrX0C/mid.png)
-![](https://i.postimg.cc/MKXZ4xg5/kiss.gif) 
-<center>go to my <a href="https://zenojor.dev">website</a> for more info!</center>
+<div align="center"> ⸸ an aritst w/ <img src="https://i.postimg.cc/NFCsMP2R/ds.gif" style="display: inline; vertical-align: middle;" width="16px">⠀front end skills ⸸ </div>
 
-<center>´ ˘ ` ˙﹟﹒﹒﹒~ !⠀｀⠀(˘•ω•˘)◞⁽˙³˙⁾⠀<a href="https://neospring.org/@puerile">credit</a></center>
+<div align="center"><img src="https://i.postimg.cc/RVTqrX0C/mid.png" width="40%"></div>
+<div align="center"><img src="https://i.postimg.cc/MKXZ4xg5/kiss.gif" width="30px"> </div>
+<div align="center">go to my <a href="https://zenojor.dev">website</a> for more info!</div>
 
-![](https://i.postimg.cc/9MpF3fW8/tv.gif)
-![](https://i.postimg.cc/4xLdyytr/btm.png)
+<div align="center">´ ˘ ` ˙﹟﹒﹒﹒~ !⠀｀⠀(˘•ω•˘)◞⁽˙³˙⁾⠀<a href="https://neospring.org/@puerile">credit</a></div>
+
+<div align="center"><img src="https://i.postimg.cc/9MpF3fW8/tv.gif" width="30px"></div>
+<div align="center"><img src="https://i.postimg.cc/4xLdyytr/btm.png" width="40%"></div>
