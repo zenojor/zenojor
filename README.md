@@ -5,7 +5,7 @@
 
 <div align="center"><img src="https://i.postimg.cc/6pGymZDF/mid.png" width="40%"></div>
 <div align="center"><img src="https://i.postimg.cc/MKXZ4xg5/kiss.gif" width="16px"> </div>
-<div align="center">go to my <a href="https://zenojor.dev">website</a> for more info!</div>
+<div align="center">go to my <a href="https://zeno.is-a.dev">website</a> for more info!</div>
 
 <div align="center">´ ˘ ` ˙﹟﹒﹒﹒~ !⠀｀⠀(˘•ω•˘)◞⁽˙³˙⁾⠀<a href="https://neospring.org/@puerile">credit</a></div>
 
